@@ -1,5 +1,7 @@
- ### This Haptic asset libraries have been developed in purpose to fully reveal the capabilities of this system in particular and the 4.7.x suit in general.
+ # This Haptic asset libraries have been developed in purpose to fully reveal the capabilities of this system in particular and the 4.7.x suit in general.
 
+
+**The Demo asset library** contains the most interesting and liked by volunteers assets. Assets are collected from VR, Develop and FES libraries.
 
 
 **The VR asset library** gives the user the opportunity to use them as a ready-made example or a base for optimizing for their own needs in various entertainment scenarios, such as games (based on scenarios written for F1, CS GO, HL Alyx, Tesla Experience):
