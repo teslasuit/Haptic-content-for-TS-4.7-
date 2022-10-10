@@ -14,7 +14,7 @@ Assets are grouped and systematized by categories:
     recoil;
 
 
-**The Developer Library** allows the user to quickly navigate the whole variety of options for using assets "on the go", and introduces FX effects to haptic animation:
+**The Developer Asset Library** allows the user to quickly navigate the whole variety of options for using assets "on the go", and introduces FX effects to haptic animation:
 Assets are grouped and systematized by:
 
     current parameters (amplitude, channel width, frequency);
